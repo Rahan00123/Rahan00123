@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on WordPress and Lottifiles
 - 📫 How to reach me (https://www.linkedin.com/in/rahan-vfx/)
 - 😄 Pronouns: Rahan
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: give me your feedback
 
 <!---
 Rahan00123/Rahan00123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
